@@ -1,6 +1,5 @@
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e84f9216-91c3-4d80-abcd-fe904ef82703" />
-<img width="1920" height="1080" alt="notes_view" src="https://github.com/user-attachments/assets/f98efa84-22af-48c0-9fe8-4864691c8fb7" />
+
 <img width="1920" height="1080" alt="immersive_mode" src="https://github.com/user-attachments/assets/dedf9cfb-d351-4a38-8f9b-570ef53be8b6" />
 <img width="1920" height="1080" alt="hero_desktop" src="https://github.com/user-attachments/assets/00393c56-4715-480e-9126-d5e1eceb1032" />
 <img width="1920" height="1080" alt="copilot_chat png" src="https://github.com/user-attachments/assets/ec16ddbd-505d-4ebf-a36a-fcb55f4636ac" />
